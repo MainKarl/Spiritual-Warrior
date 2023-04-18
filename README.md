@@ -1,1 +1,1 @@
-# spiritual_warrior
+# Spiritual Warrior
