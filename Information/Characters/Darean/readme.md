@@ -7,8 +7,6 @@
 
 ## Base Stats
 
-```plantuml
-| HP  | MP  | Strength | Defense | Resistance | Agility | Accuracy | Crit |
-| :-: | :-: | :------: | :-----: | :--------: | ------: | :------: | :--: |
-| ... | ... |   ...    |   ...   |    ...     |   ...   |   ...    | ...  |
-```
+HP  | MP  | Strength | Defense | Resistance | Agility | Accuracy | Crit
+:-: | :-: | :------: | :-----: | :--------: | ------: | :------: | :--:
+... | ... |   ...    |   ...   |    ...     |   ...   |   ...    | ...
