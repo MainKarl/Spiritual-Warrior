@@ -35,7 +35,7 @@ HP  | MP  | Strength | Defense | Magic | Resistance | Agility | Accuracy | Crit
 | Active                 | Passive              | Stat
 |:----------------------:|:--------------------:|:----:
 | Offensive Stance       | Darken Killer        | +12 HP
-| Whirlwind Slash        | Dark Resistance       | +10 MP
+| Whirlwind Slash        | Dark Resistance      | +10 MP
 | X Slash                | MP Regen             | +7 Def
 | Endure                 | Low Defense          | +3 Agi
 | Magicien Training      | High Strength        | +5 Crit
