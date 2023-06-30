@@ -1,5 +1,5 @@
 # Information
 
-* Characters
+* [Characters](/Characters/readme.md)
 * Enemies
 * Items
