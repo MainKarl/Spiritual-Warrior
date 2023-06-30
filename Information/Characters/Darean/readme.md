@@ -7,9 +7,9 @@
 
 ## Base Stats
 
-HP  | MP  | Strength | Defense | Magic | Resistance | Agility | Accuracy | Crit
-:-: | :-: | :------: | :-----: | :---: | :--------: | :-----: | :------: | :--:
-75  | 50  |   22     |   26    |   0   |    23      |   16    |   75     |  5
+| HP  | MP  | Strength | Defense | Magic | Resistance | Agility | Accuracy | Crit
+|:---:|:---:|:--------:|:-------:|:-----:|:----------:|:-------:|:--------:|:----:
+| 75  | 50  |   22     |   26    |   0   |    23      |   16    |   75     |  5
 
 ## Stat Change
 

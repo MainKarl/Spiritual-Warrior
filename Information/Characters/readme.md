@@ -74,8 +74,8 @@ Each character can only wear one type of armor from this list:
 * [Darean](Darean/readme.md)
 * Gabriel
 * Remil
+* Charlotte
 * Karla
 * Xavier
 * Olivier
 * Ardyn
-* Charlotte
