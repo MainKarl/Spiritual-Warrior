@@ -69,6 +69,10 @@ Each character can only wear one type of armor from this list:
 * Light
 * Heavy
 
+## Form
+
+Each character have a chargeable form that changed the stat of the character and his skills.
+
 ## List
 
 * [Darean](Darean/readme.md)

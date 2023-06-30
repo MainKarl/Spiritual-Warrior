@@ -8,7 +8,7 @@ A physical slash that does x1.5 - x2 - x2.5 damage to a target. *(one)*
 
 ### Precise Hilt (25 - 25 - 20 MP)
 
-A Physical strike that does x0.8 - x1 - x1.2 damage to a target and reduce their defense and resistance by 15 - 20 - 25 % for 3 - 3 - 4 turns. *(one)*
+A physical strike that does x0.8 - x1 - x1.2 damage to a target and reduce their defense and resistance by 15 - 20 - 25 % for 3 - 3 - 4 turns. *(one)*
 
 ### Warrior Focus ( 0 - 0 - 0 MP)
 

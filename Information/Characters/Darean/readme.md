@@ -13,12 +13,16 @@
 
 ## Stat Change
 
-* [Stat Change](stat_added.md)
+* [Darean - Stat Change](stat_added.md)
+
+## Form
+
+* [Darean - Form](form.md)
 
 ## Level Up Choices
 
-* [Active Skills](active_skill.md)
-* [Passive Skills](passive_skill.md)
+* [Darean - Active Skills](active_skill.md)
+* [Darean - Passive Skills](passive_skill.md)
 
 ### Level 1 Choices
 
