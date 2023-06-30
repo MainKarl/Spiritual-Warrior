@@ -1,0 +1,5 @@
+# Information
+
+* Characters
+* Enemies
+* Items

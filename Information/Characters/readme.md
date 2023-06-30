@@ -57,9 +57,9 @@ Each character can only wield one type of weapon from this list:
 * Hammer
 * Saber
 * Tome/Grimoire
-* Spear
+* Scythe
 * Dagger
-* Double Dagger
+* Bow
 
 ## Armors
 
