@@ -37,8 +37,12 @@ Level | HP  | MP  | Strength | Defense | Magic | Resistance | Agility | Acc
 
 ## Base Stat At Crucial Level
 
+HP  | MP  | Strength | Defense | Magic | Resistance | Agility | Accuracy | Crit
+:-: | :-: | :------: | :-----: | :---: | :--------: | :-----: | :------: | :--:
+75  | 50  |   22     |   26    |   0   |    23      |   16    |   75     |  5
+
 Level | HP    | MP    | Strength | Defense | Magic | Resistance | Agility | Accuracy | Crit
-:---: | :---: | :---: | :------: | :-----: | :---: | :--------: | :-----: | :------: | :--:
+----: | :---: | :---: | :------: | :-----: | :---: | :--------: | :-----: | :------: | :--:
 1     | 75    | 50    | 22       | 26      | 0     | 23         | 16      |    75    |  5
 5     | 84    | 58    | 24       | 28      | 0     | 25         | 17      |    80    |  5
 10    | 96    | 68    | 26       | 32      | 0     | 29         | 18      |    85    |  7
